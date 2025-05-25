@@ -79,13 +79,5 @@
   </table>
 </div>
 
-### 📊 Skills Proficiency
-```mermaid
-pie showData
-    title Technical Skills
-    "SQL" : 70
-    "Power BI" : 75
-    "Tableau" : 50
-    "Python" : 70
-    "Microsoft Fabric" : 50
+
 
